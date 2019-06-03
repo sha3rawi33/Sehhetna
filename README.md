@@ -1,4 +1,5 @@
 # Sehhetna
+![Proposal](https://github.com/sha3rawi33/Sehhetna/blob/master/Sehhetna%20-%20%D8%B5%D8%AD%D8%AA%D9%86%D8%A7%20.jpg)
 Am writing about "OUR" achievement of winning the 2nd place in "E-sus Mobile Applications Competition" in which, competitors creates Mobile applications and research ideas for solving the "SDGs" sustainable development goals of the UN.
 Our team's submitted application was named after me "Healthy Wealthy"; we worked on the Public Health.
 - The application uses location services to find the nearest (Hospital, Pharmacy, and even Doctor In the selected specification).
