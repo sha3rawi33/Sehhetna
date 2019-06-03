@@ -12,5 +12,3 @@ Our team's submitted application was named after me "Healthy Wealthy"; we worked
 - the application will support booking appointments with doctors and hospital, providing the nearest navigation to those hospitals/Doctors.
 $$ This application was built with #Flutter using #Dart #lang and created a mobile application for #Android and #iOS
 $$ all the Databases were built by using #FireBase and we used #Google #GMaps #API
-Am also honored to be the coder for this application, by helping from my researcher friend Abd El-naser and designer friend Mohamed Hesham ❤️
-Thank you guys ❤️
